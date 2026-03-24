@@ -1,6 +1,6 @@
-# Verun Demo (Node.js)
+# TULUM Demo (Node.js)
 
-Static HTML demo served via Node.js + Express.
+Static HTML demo for TULUM served via Node.js + Express.
 
 ## Run locally
 

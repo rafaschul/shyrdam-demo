@@ -1,5 +1,5 @@
 {
-  "name": "verun-demo-nodejs",
+  "name": "tulum-demo-nodejs",
   "version": "1.0.0",
   "private": true,
   "description": "Node.js Express wrapper for static HTML demo",
